@@ -1,0 +1,35 @@
+baseURL = 'https://selfdatalab.org'
+contentDir = 'content'
+languageCode = 'fr'
+defaultContentLanguage = "fr"
+title = 'Le Self Data Lab'
+theme = 'ananke'
+
+
+
+[menu]
+[[menu.main]]
+    identifier = 'Manifeste'
+    name = 'Manifeste'
+    pageRef = '/manifeste'
+    weight = 10
+[[menu.main]]
+    identifier = 'Articles'
+    name = 'Articles'
+    pageRef = '/articles'
+    weight = 20
+[[menu.main]]
+    identifier = 'Catalogue'
+    name = 'Catalogue'
+    pageRef = '/catalogue'
+    weight = 20
+[[menu.main]]
+    identifier = 'services'
+    name = 'Services'
+    pageRef = '/services'
+    weight = 20
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
