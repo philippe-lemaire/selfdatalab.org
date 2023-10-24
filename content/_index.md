@@ -5,9 +5,11 @@ draft = false
 featured_image = "images/sdl_fond.jpg"
 +++
 
-# Le manifeste du Self Data
+# Le Manifeste du Self Data Lab
 
 Tel que l’a défini la FING, le self data désigne « la production, l’exploitation et le partage de données personnelles par les individus, sous leur contrôle et à leurs propres fins ».
+
+Et ça c’est super.
 
 Les citoyens demandent donc accès aux données les concernant qui sont aujourd’hui dans les systèmes d’informations des organisations (ex : fournisseurs d’énergie, banque). Ces données, qui leurs permettent de mieux connaître leurs comportements et habitudes, sont la matière première de nouvelles applications (basées sur le self data) auxquelles les utilisateurs vont choisir de partager (ou non) leurs données personnelles.
 

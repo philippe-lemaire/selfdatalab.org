@@ -3,7 +3,7 @@ contentDir = 'content'
 languageCode = 'fr'
 defaultContentLanguage = "fr"
 title = 'Le Self Data Lab'
-theme = 'ananke'
+theme = 'PaperMod'
 
 
 
