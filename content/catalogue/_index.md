@@ -1,4 +1,3 @@
 +++
+title = "Catalogue des cas d'usage"
 +++
-
-# Catalogue des cas d'usage
