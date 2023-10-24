@@ -1,10 +1,10 @@
 baseURL = 'https://selfdatalab.org'
 contentDir = 'content'
-languageCode = 'fr'
+languageCode = 'fr-FR'
 defaultContentLanguage = "fr"
 title = 'Le Self Data Lab'
 theme = 'PaperMod'
-
+timeZone = "Europe/Paris"
 
 
 [menu]
@@ -33,3 +33,7 @@ theme = 'PaperMod'
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
+
+[params]
+  DateFormat = "January 2006"
+
