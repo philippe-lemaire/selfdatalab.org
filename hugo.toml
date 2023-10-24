@@ -28,6 +28,11 @@ timeZone = "Europe/Paris"
     name = 'Services'
     pageRef = '/services'
     weight = 20
+[[menu.main]]
+    identifier = 'veille'
+    name = 'Veille'
+    pageRef = '/veille'
+    weight = 20
 
 [sitemap]
   changefreq = "monthly"
