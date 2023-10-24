@@ -1,8 +1,8 @@
 +++
-title = 'Premier Article'
-date = 2023-10-13T16:08:58+02:00
+title = 'Self Data - Kézako'
+date = 2023-10-23
 draft = false
-featured_image = "images/sdl_fond.jpg"
+
 +++
 
-# Un premier article au contenu très intéressant
+[Rapport de la mission Bothorel : Pour une politique publique de la donnée](https://www.vie-publique.fr/sites/default/files/rapport/pdf/277879.pdf)
