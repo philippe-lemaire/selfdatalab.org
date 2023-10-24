@@ -35,5 +35,5 @@ timeZone = "Europe/Paris"
   filename = "sitemap.xml"
 
 [params]
-  DateFormat = "January 2006"
+  DateFormat = "02 January 2006"
 
