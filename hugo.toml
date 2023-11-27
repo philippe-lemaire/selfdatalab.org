@@ -1,4 +1,4 @@
-baseURL = 'https://selfdatalab.org'
+baseURL = 'https://selfdatalab.plemaire.net'
 contentDir = 'content'
 languageCode = 'fr-FR'
 defaultContentLanguage = "fr"
