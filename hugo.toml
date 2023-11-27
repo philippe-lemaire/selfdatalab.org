@@ -19,8 +19,8 @@ timeZone = "Europe/Paris"
     pageRef = '/articles'
     weight = 20
 [[menu.main]]
-    identifier = 'Catalogue'
-    name = 'Catalogue'
+    identifier = 'Cas d’usage'
+    name = 'Cas d’usage'
     pageRef = '/catalogue'
     weight = 20
 [[menu.main]]
@@ -42,3 +42,28 @@ timeZone = "Europe/Paris"
 [params]
   DateFormat = "02 January 2006"
 
+[params.profileMode]
+enabled = true
+subtitle = ""
+imageUrl = ""
+imageTitle = ""
+imageWidth = 120
+imageHeight = 120
+
+
+
+[[params.socialIcons]]
+name = "Mastodon"
+url = "https://fosstodon.org/selfdatalab"
+
+[[params.socialIcons]]
+name = "Facebook"
+url = "https://facebook.com/selfdatalab"
+
+[[params.socialIcons]]
+name = "Linkedin"
+url = "https://www.linkedin.com/selfdatalab"
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/philippe-lemaire/selfdatalab.org"
