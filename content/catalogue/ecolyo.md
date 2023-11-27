@@ -12,3 +12,15 @@ Ecolyo est un service gratuit disponible sur smartphone et ordinateur
 - Avec les défis personnalisés, Ecolyo vous accompagne dans la réduction de vos consommations d'énergie et d'eau
 
 [ecolyo.com](https://ecolyo.com/)
+
+## Infrastructure self data utilisée
+
+## Méthode de déploiment
+
+## Dépôt git du code
+
+## Parties prenantes
+
+## Budget
+
+## Contacts
