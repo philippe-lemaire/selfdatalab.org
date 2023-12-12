@@ -11,7 +11,7 @@ Ecolyo est un service gratuit disponible sur smartphone et ordinateur
 - Suivez l'évolution de vos consommations dans le temps
 - Avec les défis personnalisés, Ecolyo vous accompagne dans la réduction de vos consommations d'énergie et d'eau
 
-<a href="https://ecolyo.com" target="_blank">ecolyo</a>
+<p><a href="https://ecolyo.com" target="_blank">ecolyo</a></p>
 
 ## Infrastructure self data utilisée
 
