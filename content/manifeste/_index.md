@@ -6,10 +6,14 @@ featured_image = "images/sdl_fond.jpg"
 
 # Le Manifeste du Self Data Lab
 
-Tel que l’a défini la FING, le self data désigne « la production, l’exploitation et le partage de données personnelles par les individus, sous leur contrôle et à leurs propres fins ».
+**Nous sommes tous auteurs et propriétaires** d’un ensemble de données personnelles tout au long de notre vie.
 
-Les citoyens demandent donc accès aux données les concernant qui sont aujourd’hui dans les systèmes d’informations des organisations (ex : fournisseurs d’énergie, banque). Ces données, qui leurs permettent de mieux connaître leurs comportements et habitudes, sont la matière première de nouvelles applications (basées sur le self data) auxquelles les utilisateurs vont choisir de partager (ou non) leurs données personnelles.
+**Ces données nous appartiennent**, et si on les confie à des acteurs tiers, nous devons en rester les maîtres et avoir un contrôle absolu sur ces données, leur modification, suppression, transfert vers un autre système, et accès.
 
-Ces applications sont totalement transparentes sur l’utilisation qui est faite des données utilisées et ne les stockent pas, garantissant leur confidentialité. Elles permettent donc aux utilisateurs d’exploiter et de partager des données sensibles (ex : santé, banque) pour bénéficier de nouveaux services.
+**Nous militons pour un autre modèle de gestion des données personnelles** qui place l’individu producteur de ces données au centre de tout dispositif ou service.
 
-Le self data est actuellement porté par des acteurs publics, parapublics et des entreprises, souvent sous forme d’expérimentations (ex : La FING avec Mes Infos depuis 2011). La Métropole de Lyon souhaite passer le concept à l’échelle, en le développant sur son territoire mais également sur l’ensemble du territoire national en permettant à d’autres acteurs, publics comme privés, de s’en emparer. La masse critique d’utilisateurs visés créerait un nouveau marché pour des applications respectueuses des données personnelles.
+**Nous souhaitons contribuer à un numérique plus éthique**, fait de coopération et d'échanges de données librement consentis, qui ne cherche ni à contrôler, ni à espionner, ni à capturer, ni à influencer ses utilisateurs.
+
+**Nous proposons un terrain d'expérimentation** pour de nouvelles pratiques de gestion des données personnelles, qui rassemble collectivité territoriale, chercheurs, développeurs, entreprises, et utilisateurs.
+
+Tandis que les géants du numérique nous incitent à consommer toujours plus de matériel, de bande passante, de contenus, d’espace de stockage, de temps de calcul, de publicités, **nous nous engageons dans la voie d'un numérique plus sobre et responsable** face aux limites planétaires et aux enjeux environnementaux et sociétaux des pratiques numériques.
