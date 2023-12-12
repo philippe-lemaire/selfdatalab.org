@@ -5,17 +5,15 @@ draft = false
 
 ## Ecolyo vous aide à suivre et agir sur vos consommations d'énergie et d'eau
 
-Ecolyo est un service gratuit disponible sur smartphone et ordinateur
+[Ecolyo](https://ecolyo.com) est un service gratuit fourni par la Métropole de Lyon à ses habitants, disponible sur smartphone et ordinateur.
 
 - Retrouvez au même endroit vos consommations d'électricité, de gaz et d'eau
 - Suivez l'évolution de vos consommations dans le temps
 - Avec les défis personnalisés, Ecolyo vous accompagne dans la réduction de vos consommations d'énergie et d'eau
 
-<p><a href="https://ecolyo.com" target="_blank">ecolyo</a></p>
-
 ## Infrastructure self data utilisée
 
-Ecolyo repose sur un espace de stockage numérique personnel fourni gratuitement par la Métropole de Lyon, nommé [_“Ma Bulle”_](<https://support.grandlyon.com/clouds-personnels-grand-lyon/>) et propulsé par **Cozy Cloud**.
+Ecolyo repose sur un espace de stockage numérique personnel fourni gratuitement par la Métropole de Lyon, nommé [_“Ma Bulle”_](https://support.grandlyon.com/clouds-personnels-grand-lyon/) et propulsé par **Cozy Cloud**.
 
 Les données et le code de l’application sont hébergées en France, chez OVH, avec une réplication sur 3 sites distincts.
 
@@ -39,9 +37,9 @@ L’application Ecolyo utilise 3 connecteurs dont le rôle est de récupérer le
 
 ## Dépôt git du code
 
-Le code de cozy cloud est en grande partie public : <a href="https://github.com/cozy" target="_blank">https://github.com/cozy</a>.
+Le code de cozy cloud est en grande partie public : [https://github.com/cozy](https://github.com/cozy).
 
-Le code source d'Ecolyo est public sur  <a href="https://forge.grandlyon.com/web-et-numerique/factory/llle_project/ecolyo" target="_blank">la forge de la Métropole de Lyon</a>.
+Le code source d'Ecolyo est public sur  [la forge de la Métropole de Lyon](https://forge.grandlyon.com/web-et-numerique/factory/llle_project/ecolyo).
 
 ## Parties prenantes
 
