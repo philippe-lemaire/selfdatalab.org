@@ -1,16 +1,18 @@
 +++
 date = 2023-10-13T16:08:58+02:00
 draft = false
-featured_image = "images/sdl_fond.jpg"
+featured_image = ""
 +++
 
 # Le Manifeste du Self Data Lab
 
-**Nous sommes tous auteurs et propriétaires** d’un ensemble de données personnelles tout au long de notre vie.
+**Toute information se rapportant à une personne physique identifiée ou identifiable** est considérée comme une donnée personnelle, selon le Règlement Général sur la Protection des Données Personnelles (RGPD).
 
-**Ces données nous appartiennent**, et si on les confie à des acteurs tiers, nous devons en rester les maîtres et avoir un contrôle absolu sur ces données, leur modification, suppression, transfert vers un autre système, et accès.
+**Dès la naissance, et par leur simple participation à la vie citoyenne**, l’ensemble des personnes d’un territoire deviennent autrices d’un ensemble de données personnelles tout au long de leur vie.
 
-**Nous militons pour un autre modèle de gestion des données personnelles** qui place l’individu producteur de ces données au centre de tout dispositif ou service.
+**Nous, collectivités, entreprises, associations, militants**, considérons que ces données appartiennent aux personnes concernées, et quand bien même elles sont amenées à les confier à des acteurs tiers, elles doivent conserver un contrôle absolu sur ces données, leur modification, suppression, utilisation, transfert vers un autre système, et accès.
+
+**Nous militons pour un autre modèle de gestion des données personnelles** qui place les personnes productrices de ces données au centre de tout dispositif ou service.
 
 **Nous souhaitons contribuer à un numérique plus éthique**, fait de coopération et d'échanges de données librement consentis, qui ne cherche ni à contrôler, ni à espionner, ni à capturer, ni à influencer ses utilisateurs.
 
