@@ -3,7 +3,7 @@ title = 'My Toutatice'
 draft = false
 +++
 
-MyToutatice, c'est :
+**MyToutatice**, c'est :
 
 - un Espace Numérique Personnel (ENP) connecté à mon ENT Toutatice
 - un système d’information centré sur l’individu et non plus sur l’organisation

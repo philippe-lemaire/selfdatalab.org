@@ -3,6 +3,8 @@ title = 'Mes Papiers'
 draft = false
 +++
 
+![Logo Mes Papiers](/images/mes_papiers.jpg)
+
 ## Description Mes Papiers
 
 “Mes papiers” est une application développée par la Métropole de Lyon afin de **faciliter les démarches administratives** (RSA, CAF, etc.) pour les usagers ainsi que les agents.
@@ -15,7 +17,7 @@ L’objectif est ainsi de faciliter d’un côté le stockage et d’un autre c�
 
 “Mes papiers” est une application qui s'appuie sur l'espace de stockage numérique **Cozy Cloud**. L'utilisateur final doit se créer un compte, optionnellement installer l'application cozy cloud sur son smartphone, et dans son _Cozy_ ajouter l'application _Mes Papiers_.
 
-L’application l’invite à ajouter des documents, en les catégorisant dès leur envoi sur l’espace de stockage (carte d'identité, carte grise, facture d'énergie, etc…) pour mieux les retrouver et les partager plus tard.
+L’application l’invite à ajouter des photos ou scans de ses documents, en les catégorisant dès leur envoi sur l’espace de stockage (carte d'identité, carte grise, facture d'énergie, etc…) pour mieux les retrouver et les partager plus tard.
 
 Les documents sont transférés et stockés dans une arborescence de dossiers créé automatiquement par l'application dans l'espace de stockage _Cozy_.
 

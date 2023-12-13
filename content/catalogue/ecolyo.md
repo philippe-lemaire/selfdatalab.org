@@ -3,6 +3,9 @@ title = 'Ecolyo'
 draft = false
 +++
 
+
+![Logo Ecolyo](/images/ecolyo_logo.png)
+
 ## Ecolyo vous aide à suivre et agir sur vos consommations d'énergie et d'eau
 
 [Ecolyo](https://ecolyo.com) est un service gratuit fourni par la Métropole de Lyon à ses habitants, disponible sur smartphone et ordinateur.
