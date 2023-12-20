@@ -41,7 +41,7 @@ La création de nouveaux espaces personnels se fait par les utilisateurs de l'EN
 ## Parties prenantes
 
 - [Éducation Nationale](https://www.education.gouv.fr/)
-- [Académie de Rennes]https://www.ac-rennes.fr/)
+- [Académie de Rennes](https://www.ac-rennes.fr/)
 - [Cozy Cloud](http://cozy.io)
 - L’association [FING](https://fing.org/)
 
