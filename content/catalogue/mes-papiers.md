@@ -5,7 +5,7 @@ draft = false
 
 ![Logo Mes Papiers](/images/mes_papiers.jpg)
 
-## Description Mes Papiers
+## Description
 
 “Mes papiers” est une application développée par la Métropole de Lyon afin de **faciliter les démarches administratives** (RSA, CAF, etc.) pour les usagers ainsi que les agents.
 
