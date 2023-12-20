@@ -49,4 +49,4 @@ La création de nouveaux espaces personnels se fait par les utilisateurs de l'EN
 ## Contacts
 
 - Olivier Adam, DSI de l'Académie de Rennes.
-- Thierry Joffredo, Responsable pôle numérique pédagogique de la DSII de l'académie de Rennes
+- Thierry Joffredo, Responsable pôle numérique pédagogique de la DSI de l'Académie de Rennes
