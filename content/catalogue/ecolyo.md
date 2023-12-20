@@ -28,7 +28,7 @@ Une fois dans leur bulle, les utilisateurs y ajoutent l'application Ecolyon et y
 
 Les données de consommation d'eau et d’énergie du ménage sont ensuite utilisées par l'application pour produire des tableaux de bord, des comparatifs de période en période, ou bien à des ménages types.
 
-## Méthode de déploiment
+## Méthode de déploiement
 
 Un service de stockage numérique personnel fourni par la Métropole à ses habitants, accompagné d'une application interne à ce service de stockage numérique.
 
