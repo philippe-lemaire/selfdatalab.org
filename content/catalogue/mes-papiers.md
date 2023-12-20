@@ -9,19 +9,30 @@ draft = false
 
 “Mes papiers” est une application développée par la Métropole de Lyon afin de **faciliter les démarches administratives** (RSA, CAF, etc.) pour les usagers ainsi que les agents.
 
-L’application permet de rassembler de nombreux documents administratifs (carte d’identité, facture énergie, etc.) dans un seul endroit et de les partager facilement.
+L’application permet de rassembler de nombreux documents administratifs (carte d’identité, attestations, carte grise, facture énergie, etc.) dans un seul endroit et de les partager facilement à des tiers.
 
-L’objectif est ainsi de faciliter d’un côté le stockage et d’un autre côté également l’échange d’informations avec des contacts privés ou des travailleurs sociaux dans le cadre de demandes de prestation.
+L’objectif est ainsi de faciliter d’un côté le stockage et la recherche ultérieure de ces documents, et d’un autre côté l’échange d’informations avec des contacts privés ou des travailleurs sociaux dans le cadre de demandes de prestation.
 
 ## Infrastructure self data utilisée
 
-“Mes papiers” est une application qui s'appuie sur l'espace de stockage numérique **Cozy Cloud**. L'utilisateur final doit se créer un compte, optionnellement installer l'application cozy cloud sur son smartphone, et dans son _Cozy_ ajouter l'application _Mes Papiers_.
+“Mes papiers” est une application qui s'appuie sur l'espace de stockage numérique **Cozy Cloud**.
 
-L’application l’invite à ajouter des photos ou scans de ses documents, en les catégorisant dès leur envoi sur l’espace de stockage (carte d'identité, carte grise, facture d'énergie, etc…) pour mieux les retrouver et les partager plus tard.
+L'utilisateur doit se créer un compte soit sur le domaine cozy classique (**mycozy.cloud**), soit sur le domaine cozy fourni par la Métropole de Lyon (**cozygrandlyon.cloud**).
+Une fois connecté a son compte, soit par le navigateur web, soit par l'application mobile Cozy, l’utilisateur peut ajouter gratuitement l'application _Mes Papiers_ dans son _cozy_.
 
-Les documents sont transférés et stockés dans une arborescence de dossiers créé automatiquement par l'application dans l'espace de stockage _Cozy_.
+Cette application est une **vue augmentée** du système de gestion de fichiers de _cozy_.
+
+Elle permet à son utilisateur à d’importer des photos ou scans de ses documents, en les catégorisant dès leur envoi sur l’espace de stockage (carte d'identité, carte grise, facture d'énergie, etc…), et en y ajoutant des méta-données (le numéro de la carte d'identité, sa date limite de validité, le numéro d'allocataire) pour mieux les retrouver et les partager plus tard.
+
+De plus, grâce à un système de connecteurs avec des services extérieurs, “Mes Papiers” permet de se connecter une fois à des services extérieurs comme les impôts,
+la Caisse d'Allocations Familiales, le fournisseur d'accès à internet, etc… pour aller récupérer par la suite automatiquement différents documents directement à la source.
+
+Les documents sont transférés et stockés dans une arborescence de dossiers créé automatiquement par l'application dans l'espace de stockage _Cozy_, et sont cherchables et partageables facilement avec des tiers.
+
+La feuille de route développement prévoit un mode d’accès sécurisé qui permettra de donner lors d'un rendez-vous accès à l'ensemble de ses documents (hors mots de passe) à un professionnel identifié, pour faciliter les opérations d’assistance de travailleurs sociaux par exemple.
 
 ## Méthode de déploiment
+
 
 ## Liens utiles
 
