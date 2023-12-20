@@ -27,7 +27,7 @@ Elle permet à son utilisateur à d’importer des photos ou scans de ses docume
 De plus, grâce à un système de connecteurs avec des services extérieurs, “Mes Papiers” permet de se connecter une fois à des services extérieurs comme les impôts,
 la Caisse d'Allocations Familiales, le fournisseur d'accès à internet, etc… pour aller récupérer par la suite automatiquement différents documents directement à la source.
 
-Les documents sont transférés et stockés dans une arborescence de dossiers créé automatiquement par l'application dans l'espace de stockage _Cozy_, et sont cherchables et partageables facilement avec des tiers.
+Les documents sont transférés et stockés dans une arborescence de dossiers créé automatiquement par l'application dans l'espace de stockage _Cozy_, et sont faciles à chercher par mots clés et à partager avec des tiers..
 
 La feuille de route développement prévoit un mode d’accès sécurisé qui permettra de donner lors d'un rendez-vous accès à l'ensemble de ses documents (hors mots de passe) à un professionnel identifié, pour faciliter les opérations d’assistance de travailleurs sociaux par exemple.
 
