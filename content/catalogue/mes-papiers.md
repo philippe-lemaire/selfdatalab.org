@@ -31,13 +31,15 @@ Les documents sont transférés et stockés dans une arborescence de dossiers cr
 
 La feuille de route développement prévoit un mode d’accès sécurisé qui permettra de donner lors d'un rendez-vous accès à l'ensemble de ses documents (hors mots de passe) à un professionnel identifié, pour faciliter les opérations d’assistance de travailleurs sociaux par exemple.
 
-## Méthode de déploiment
+## Méthode de déploiement
 
+Si le projet est une commande de la Métropole de Lyon à Cozy, l'application produite est un commun numérique qui est accessibles à tous les utilisateurs d’espaces numériques Cozy, qu'ils soient utilisateurs gratuits ou payants de l'offre de Cozy, ou utilisateur des espaces numériques cozy fournis par la Métropole de Lyon aux habitants du territoire.
 
 ## Liens utiles
 
-- [Dépôt git](https://github.com/cozy/mespapiers)
 - [Ressourcerie en ligne du projet](https://service-numerique-metropole.notion.site/Ressourcerie-du-projet-Mes-Papiers-493186d3b7b844739322310d703617b3)
+- [Code source (sur github)](https://github.com/cozy/mespapiers)
+
 
 ## Parties prenantes
 
@@ -54,8 +56,7 @@ La feuille de route développement prévoit un mode d’accès sécurisé qui pe
   - [Lyon](https://www.lyon.fr/)
   - [Vaulx-en-Velin](https://vaulx-en-velin.net/)
 
-## Budget
-
 ## Contacts
 
-Antoine Louvet, Chef de projet Inclusion Numérique à la Métropole de Lyon
+Gestion de produit : Lucie Billaud, Chef de projet Self-Data à la Métropole de Lyon
+Référent métier : Antoine Louvet, Chef de projet Inclusion Numérique à la Métropole de Lyon
